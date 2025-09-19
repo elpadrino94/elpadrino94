@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @elpadrino94
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me celestindjato5@gmail.com
+👋 Salut, moi c’est DKC
 
-<!---
-elpadrino94/elpadrino94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 Développeur passionné | 💻 Spécialisé en Python, Django, HTML5 & CSS3
+
+🚀 À propos de moi
+- 🔭 Je travaille actuellement sur : un site de e-commerce
+- 🌱 J’apprends et je me perfectionne en développement web full-stack
+- 💬 Ask me about : Django, Python, HTML5, CSS, Git
+- 📫 Contact : [ton.email@example.com] *(remplace par ton vrai email)*
+
+🧰 Outils & Technologies
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+
+📈 Stats GitHub
+![Stats](https://github-readme-stats.vercel.app/api?username=DKC&show_icons=true&theme=tokyonight)
